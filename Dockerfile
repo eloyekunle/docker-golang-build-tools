@@ -1,5 +1,5 @@
 # Base image
-FROM golang:1.11-alpine3.7 AS build-env
+FROM golang:alpine AS build-env
 MAINTAINER Elijah Oyekunle <eloyekunle@gmail.com>
 
 #Build deps

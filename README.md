@@ -1,6 +1,6 @@
 # Dockerfile with Golang (Alpine) and Build tools.
 
-Golang 1.11 + Build Tools (e.g. make etc.)
+Golang (Latest) + Build Tools (e.g. make etc.)
 
 Find [the image here](https://hub.docker.com/r/playmice/docker-golang-build-tools)
 
